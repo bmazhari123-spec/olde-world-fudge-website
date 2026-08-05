@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Olde World Fudge">
+  <rect width="64" height="64" rx="14" fill="#fbf0d9"/>
+  <path d="M12 26l14-8 24 7-14 8z" fill="#a9702a"/>
+  <path d="M12 26v12l24 7V33z" fill="#7d4a1d"/>
+  <path d="M36 33l14-8v12l-14 8z" fill="#4a2716"/>
+  <path d="M20 42l7-4 9 2.6-7 4z" fill="#c98f45"/>
+  <path d="M20 42v5l9 2.6v-5z" fill="#8a5a10"/>
+  <path d="M29 44.6l7-4v5l-7 4z" fill="#5a3018"/>
+</svg>

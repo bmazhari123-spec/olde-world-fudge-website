@@ -1,0 +1,19 @@
+PLACEHOLDER PHOTOGRAPHY — NOT PHOTOS OF THIS SHOP
+=================================================
+photo1-photo9.jpg are generic confectionery stock images from Unsplash,
+used under the Unsplash License (free for commercial use, no attribution
+required, https://unsplash.com/license).
+
+They are stand-ins so the layout reads correctly. Replace all nine with
+real photos of Olde World Fudge before the site goes live — a food shop
+using stock photos of someone else's chocolate is obvious to customers.
+
+Source photo IDs (unsplash.com/photos/<id>):
+  photo1  qk9BPaw_6ys     photo6  SAmdtTqh9T8
+  photo2  QflbjPJlRG8     photo7  CqQsEDCpPqc
+  photo3  q0a1lWVxtcw     photo8  0UMOlazKvR0
+  photo4  D1zuILDUNzc     photo9  nkUDraUNaC4
+  photo5  a1Jk2FzLLsM
+
+To swap in real ones: drop JPGs named photo1.jpg ... photo9.jpg in this
+folder, same names. Nothing in the HTML needs to change.
