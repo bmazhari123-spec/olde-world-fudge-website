@@ -1,19 +1,19 @@
-PLACEHOLDER PHOTOGRAPHY — NOT PHOTOS OF THIS SHOP
-=================================================
-photo1-photo9.jpg are generic confectionery stock images from Unsplash,
-used under the Unsplash License (free for commercial use, no attribution
-required, https://unsplash.com/license).
+Client's own photographs of Olde World Fudge Co., Granville Island Public
+Market, supplied 2026-08-04. Colour, contrast and sharpness adjusted; the
+three thumbnail-sized sources were upscaled. No content altered.
 
-They are stand-ins so the layout reads correctly. Replace all nine with
-real photos of Olde World Fudge before the site goes live — a food shop
-using stock photos of someone else's chocolate is obvious to customers.
+Each photo is used in exactly ONE place - no duplicates across the site:
 
-Source photo IDs (unsplash.com/photos/<id>):
-  photo1  qk9BPaw_6ys     photo6  SAmdtTqh9T8
-  photo2  QflbjPJlRG8     photo7  CqQsEDCpPqc
-  photo3  q0a1lWVxtcw     photo8  0UMOlazKvR0
-  photo4  D1zuILDUNzc     photo9  nkUDraUNaC4
-  photo5  a1Jk2FzLLsM
+  ../storefront.jpg  neon sign over the counter   -> home page banner
+  photo1.jpg         caramel apples in the case   -> home page split section
+  photo4.jpg         counter with boxed brittle   -> Our Story
+  photo2.jpg         the twelve-loaf fudge case   -> Gallery
+  photo3.jpg         dipped strawberries          -> Gallery
+  photo5.jpg         case dressed for Christmas   -> Gallery  (source 348x348)
+  photo6.jpg         trays of caramel apples      -> Gallery  (source 259x194)
+  photo7.jpg         chocolate-drizzled cookies   -> Gallery  (source 194x259)
 
-To swap in real ones: drop JPGs named photo1.jpg ... photo9.jpg in this
-folder, same names. Nothing in the HTML needs to change.
+LOW RESOLUTION: photo5/6/7 came in at thumbnail size and were upscaled.
+They are soft on a large screen. Re-shoot or source the originals when
+possible - same filenames, no HTML change needed.
+photo5 also shows Christmas decorations, so it dates the page off-season.
